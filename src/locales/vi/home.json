@@ -1,0 +1,8 @@
+{
+  "header": {
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "logout": "Đăng xuất",
+    "profile": "Thông tin người dùng"
+  }
+}
